@@ -1,0 +1,24 @@
+{
+    "name": "kk0501/pfcexpress",
+    "description": "pfcexpress api.",
+    "keywords": [
+        "pfcexpress",
+        "皇家物流"
+    ],
+    "homepage": "https://github.com/kk0501/pfcexpress",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luke",
+            "email": "461025755@qq.com",
+            "homepage": "https://github.com/kk0501"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kk0501\\Pfcexpress\\": "src"
+        }
+    },
+    "require": {}
+}
